@@ -1,0 +1,5 @@
+print ('Olá, mundo')
+print ('O mundo está muito belo Hoje')
+print ('Passáros cantando')
+print ('Flores desabrochando')
+print ('E o sol iluminando')
